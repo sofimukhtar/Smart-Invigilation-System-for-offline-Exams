@@ -8,7 +8,7 @@ The project applies deep learning techniques to detect suspicious behaviors in a
 This model achieves high accuracy in identifying specific activities such as cheating and normal behavior in exam halls.
 
 **Features******
-Model: YOLOv8 for object detection
+Model: YOLOv8 for object detection.
 Dataset: Custom exam dataset (xamDataSetv2)
 Preprocessing: Grayscale padding, adaptive anchor calculation, and mosaic augmentation.
 
