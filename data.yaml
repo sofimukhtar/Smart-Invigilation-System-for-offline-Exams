@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/YOLOv8/Data_R/train/images
+val: /content/drive/MyDrive/YOLOv8/Data_R/valid/images
+test: /content/drive/MyDrive/YOLOv8/Data_R/test/images
+
+nc: 3
+names: ['Person', 'Student_cheating', 'Student_not_cheating']
+
+roboflow:
+  workspace: meghanaroboflow
+  project: realtime-data-njuk1
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/meghanaroboflow/realtime-data-njuk1/dataset/1
