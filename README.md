@@ -17,4 +17,7 @@ PyTorch
 Google Colab environment for GPU support
 
 
+![val_batch2_labels](https://github.com/user-attachments/assets/7deace98-6eef-4a61-a8dc-a9e07b858848)
+![val_batch1_labels (1)](https://github.com/user-attachments/assets/90191428-19f3-43a4-9ca6-e554e0666cf0)
+![val_batch0_labels](https://github.com/user-attachments/assets/24d59ca0-259d-4c40-b665-67facefe4a42)
 
