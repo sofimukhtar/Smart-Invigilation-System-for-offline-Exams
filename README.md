@@ -1,5 +1,8 @@
 # Smart-Invigilation-System
 **Automated Invigilation System for Offline Exam  Monitoring using Deep Learning**
+**Authors**
+This project is developed by Dr. Sofi, Manjitha Mudiyala, Pattam Meghana,Thatikonda Sree Vally, Sai Sree Bakki,  at BVRIT Hyderabad College of Engineering for Women.
+
 This repository contains code for object detection using YOLOv8 on a custom CCTV dataset obtained from BVRIT HYDERABAD. 
 The project applies deep learning techniques to detect suspicious behaviors in an offline examination setting, leveraging a model trained on the xamDataSetv2 and custom dataset. 
 This model achieves high accuracy in identifying specific activities such as cheating and normal behavior in exam halls.
@@ -23,8 +26,7 @@ TensorFlow
 PyTorch
 Google Colab environment for GPU support
 
-**Authors**
-This project is developed by Dr. Sofi, Manjitha Mudiyala, Pattam Meghana,Thatikonda Sree Vally, Sai Sree Bakki,  at BVRIT Hyderabad College of Engineering for Women.
+
 
 ****Output****
 
