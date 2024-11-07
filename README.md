@@ -7,7 +7,7 @@ This model achieves high accuracy in identifying specific activities such as che
 
 **Features******
 Model: YOLOv8 for object detection.
-Dataset: Custom exam dataset (xamDataSetv2)
+Dataset: Custom exam dataset and (xamDataSetv2)
 Preprocessing: Grayscale padding, adaptive anchor calculation, and mosaic augmentation.
 
 **Training:** 
