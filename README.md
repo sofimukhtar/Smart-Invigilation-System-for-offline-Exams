@@ -26,7 +26,7 @@ Google Colab environment for GPU support
 
 **Authors**
 This project is developed by Dr. Sofi, Manjitha Mudiyala, Pattam Meghana,Thatikonda Sree Vally, Sai Sree Bakki,  at BVRIT Hyderabad College of Engineering for Women.
----------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ****Output****
