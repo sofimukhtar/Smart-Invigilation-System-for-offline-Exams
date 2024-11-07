@@ -17,17 +17,15 @@ Achieved 98% accuracy with precision, recall, and F1-score of 73%, 91%, and 80.6
 **Custom Dataset**
 **https://drive.google.com/drive/folders/1rxlY7pqM9ZrDqucpW0ZuOLXIKxRBZ1uy?usp=drive_link**
 
-
 **Requirements**
 Python 3.x
-
 TensorFlow
-
 PyTorch
-
 Google Colab environment for GPU support
+
 **Authors**
-This project is developed by Dr. Sofi, Manjitha Mudiyala,Pattam Meghana,Thatikonda Sree Vally, Sai Sree Bakki,  at BVRIT Hyderabad College of Engineering for Women.
+This project is developed by Dr. Sofi, Manjitha Mudiyala, Pattam Meghana,Thatikonda Sree Vally, Sai Sree Bakki,  at BVRIT Hyderabad College of Engineering for Women.
+
 ****Output****
 
 **https://drive.google.com/drive/folders/1XQwnqvJa7s-lC3gALmHeUqGSSYARzEvT?usp=drive_link**
